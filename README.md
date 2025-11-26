@@ -12,3 +12,11 @@ Env-Station est une station de mesure environnementale basée sur un microcontr�
 - Documenter l’architecture matérielle et logicielle.
 
 ## Structure du dépôt
+
+Env-Station/
+ ├── firmware/src/main.ino          # Firmware de base pour ESP32
+ ├── hardware/components-list.md   # Liste des composants
+ ├── docs/system-architecture.md   # Architecture matérielle et logicielle
+ ├── docs/roadmap.md               # Roadmap et évolutions prévues
+ └── README.md                      # Description générale du projet
+
